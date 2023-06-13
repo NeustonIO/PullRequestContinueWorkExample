@@ -1,5 +1,5 @@
 # PullRequestContinueWorkExample
-This is a bradn new description.
+This is a brand new description.
 Examples:
 1. Apple
 2. Banana
